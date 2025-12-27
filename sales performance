@@ -1,0 +1,34 @@
+# Suburb-Specific-sales_Analysis
+
+### Project Overview
+A data analysis and business intelligence protect focused on transforming raw sales data into actionablle,location-baesd insights, The primary goal is to provide a granular view of performance
+by tracking key metrics and trends across specific suburbs and local markets. The output is a multi-dimenesional visualization suite(dashboards) designed for strategic resource allocation,
+sales forecasting,and identifying geographically-driven growth opportunities.
+
+### Data Sources
+Sales and Suburb Performance:This is the primary dataset used for this analysis is the "Sales_and_Suburb_Performance_excel"file.
+
+### Tools
+-Microsoft Excel
+-Used for data analysis and building the overall dashboard
+
+###Exploratory Data Analysis
+EDA involved exploring the sales and suburb performance to answer key questions,such as
+-Top Buyers in Each Year
+-Distinct Count of Sales
+- Suburb Groups from 2016-2017
+-Distinct Count of Manager
+-Distinct Count of Day
+
+### Data Analysis
+Identified trends and patterns in the dataset called "Sales_and_Suburb _Performance_Excel" file.
+
+Visualization: Built visuals including KPI cards,bar charts,column charts and Line charts to present insight more clearly
+
+### Results/Findings
+- Best Selling Category from 2016-2017
+- Suburb Groups from 2016-2017
+- Best Selling Manager from 2016-2017
+- Best Selling Month
+- Best Selling Days
+- Top Buyers in Each Year
